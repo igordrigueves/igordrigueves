@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, sou Igor Rodrigues</h1>
+<h1 align="center">Olá! Sou Igor Rodrigues</h1>
 <h3 align="center">Estudante do 6º semestre de Ciência da Computação, apaixonado por dados, jogos, livros e por transformar curiosidade em código. Atualmente explorando programação e projetos do mundo real, com foco futuro em análise de dados e segurança cibernética. Sempre aprendendo — uma linha de código por vez.</h3>
 
 - 📫 Como entrar em contato comigo **igor.rodrigues.jobs@gmail.com**
